@@ -7,9 +7,9 @@ public class NewClass {
     int numero;
 
     public int getNumero(){
-        return nombre;
+        return numero;
     }
-    public void setNumero(String numero){
+    public void setNumero(int numero){
         this.numero = numero;
     }
 
