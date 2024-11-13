@@ -96,6 +96,7 @@ public class Bienvenido extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         JOptionPane.showMessageDialog(null, "Adios");
+        JOptionPane.showMessageDialog(null, "Adios");
         Perfil conectar = new Perfil();
         conectar.setVisible(true);
         setVisible(false);
